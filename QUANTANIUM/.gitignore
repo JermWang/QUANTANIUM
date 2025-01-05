@@ -1,11 +1,60 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
+# Compiled object files
+*.o
+*.obj
 
-# Virtual environment
-venv/
-.env
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
 
-# Docker
+# Compiled static libraries
+*.lib
+*.a
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+/bin/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Backup files
+*~
+
+# Logs and databases
 *.log
-docker-compose.override.yml
+*.sql
+*.sqlite
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Coverage and test results
+*.gcda
+*.gcno
+*.gcov
+*.lcov
+
+# Other
+*.bak
+*.old
