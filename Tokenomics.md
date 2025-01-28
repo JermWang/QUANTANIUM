@@ -9,7 +9,7 @@
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
 <div align="center">
-  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="700"/>
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="200"/>
 
 # The Future of Quantum-Secure Tokenomics
 
