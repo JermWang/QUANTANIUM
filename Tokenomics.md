@@ -19,27 +19,6 @@ QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that 
 
 <div align="center">
 
-## Token Distribution
-Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
-
-```mermaid
-pie
-    title "QNTM Token Distribution"
-    "Beta Users Airdrop" : 15
-    "Development Fund & Team" : 15
-    "PumpFun Launch" : 70
-```
-
-</div>
-
-| Allocation | Percentage | Amount | Vesting |
-|------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
-| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
-| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
-
-<div align="center">
-
 ## Beta Users Airdrop Program
 
 <table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
@@ -62,8 +41,6 @@ CLAIM YOUR AIRDROP
 </tr>
 </table>
 
-</div>
-
 The Beta Users Airdrop is designed to reward early adopters who help test, improve, and secure the protocol:
 
 - **Eligibility**: Active participation in the beta testing program
@@ -74,91 +51,32 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 - **Distribution**: Immediate upon mainnet launch
 - **Lock-up**: Optional lock-up periods for additional benefits
 
-## Staking Mechanism: Access-for-Stake Model
-
-```mermaid
-graph TD
-    A[Stake QNTM Tokens] --> B{Choose Lock Period}
-    B --> C[1 Month]
-    B --> D[6 Months]
-    B --> E[1 Year]
-    B --> F[4 Years]
-    
-    C --> G[20% Discount]
-    D --> H[40% Discount]
-    E --> I[60% Discount]
-    F --> J[90% Discount]
-    
-    G --> K[Basic Features]
-    H --> L[Advanced Features]
-    I --> M[Enterprise Features]
-    J --> N[Full Suite + Priority]
-```
-
-### Staking Tiers
-
-| Lock Period | Discount on Protocol Usage | Additional Benefits |
-|-------------|---------------------------|-------------------|
-| 1 month | 20% | Basic quantum security features |
-| 6 months | 40% | + Advanced threat detection |
-| 1 year | 60% | + Enterprise features |
-| 4 years ("Forever") | 90% | Full suite + Priority support |
-
-### Staking Benefits
-- Reduced protocol usage costs
-- Enhanced security features
-- Priority support access
-- Governance voting power
-- Revenue sharing from protocol fees
-
-## Community Governance
-
-```mermaid
-graph LR
-    A[Token Holders] --> B[Stake Tokens]
-    B --> C[Voting Power]
-    C --> D[Governance Decisions]
-    D --> E[Protocol Changes]
-    E --> F[Implementation]
-    F --> G[Community Benefits]
-```
-
-### Voting Power
-- 1 QNTM = 1 base vote
-- Voting power multipliers based on stake duration:
-  - 1-month stake: 1x
-  - 6-month stake: 2x
-  - 1-year stake: 3x
-  - 4-year stake: 5x
-
-### Governance Scope
-- Protocol upgrades and features
-- Security parameter adjustments
-- Treasury fund allocation
-- Fee structure modifications
-- Partnership decisions
-
-## Protocol Revenue Model
+</div>
 
 <div align="center">
 
+## Token Distribution
+
+Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
+
 ```mermaid
 pie
-    title "Revenue Distribution"
-    "Stakers" : 40
-    "Treasury" : 25
-    "Bug Bounty" : 10
-    "Token Buyback & Burn" : 25
+    title "QNTM Token Distribution"
+    "Beta Users Airdrop" : 15
+    "Development Fund & Team" : 15
+    "PumpFun Launch" : 70
 ```
 
-</div>
+<div align="center">
 
-| Allocation | Percentage | Purpose |
-|------------|------------|---------|
-| Stakers | 40% | Distributed to token stakers |
-| Treasury | 25% | Protocol development and maintenance |
-| Bug Bounty Fund | 10% | Security improvements and bug fixes |
-| Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
+| Allocation | Percentage | Amount | Vesting |
+|------------|------------|---------|---------|
+| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
+| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
+| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
+
+</div>
+</div>
 
 ## Advantages of Our Model
 
@@ -205,6 +123,100 @@ pie
    - Regular security audits
    - Community-driven security improvements
 
+## Staking Mechanism: Access-for-Stake Model
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[Stake QNTM Tokens] --> B{Choose Lock Period}
+    B --> C[1 Month]
+    B --> D[6 Months]
+    B --> E[1 Year]
+    B --> F[4 Years]
+    
+    C --> G[20% Discount]
+    D --> H[40% Discount]
+    E --> I[60% Discount]
+    F --> J[90% Discount]
+    
+    G --> K[Basic Features]
+    H --> L[Advanced Features]
+    I --> M[Enterprise Features]
+    J --> N[Full Suite + Priority]
+```
+
+### Staking Tiers
+
+| Lock Period | Discount on Protocol Usage | Additional Benefits |
+|-------------|---------------------------|-------------------|
+| 1 month | 20% | Basic quantum security features |
+| 6 months | 40% | + Advanced threat detection |
+| 1 year | 60% | + Enterprise features |
+| 4 years ("Forever") | 90% | Full suite + Priority support |
+
+</div>
+
+### Staking Benefits
+- Reduced protocol usage costs
+- Enhanced security features
+- Priority support access
+- Governance voting power
+- Revenue sharing from protocol fees
+
+## Community Governance
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[Token Holders] --> B[Stake Tokens]
+    B --> C[Voting Power]
+    C --> D[Governance Decisions]
+    D --> E[Protocol Changes]
+    E --> F[Implementation]
+    F --> G[Community Benefits]
+```
+
+### Voting Power
+- 1 QNTM = 1 base vote
+- Voting power multipliers based on stake duration:
+  - 1-month stake: 1x
+  - 6-month stake: 2x
+  - 1-year stake: 3x
+  - 4-year stake: 5x
+
+</div>
+
+### Governance Scope
+- Protocol upgrades and features
+- Security parameter adjustments
+- Treasury fund allocation
+- Fee structure modifications
+- Partnership decisions
+
+## Protocol Revenue Model
+
+<div align="center">
+
+```mermaid
+pie
+    title "Revenue Distribution"
+    "Stakers" : 40
+    "Treasury" : 25
+    "Bug Bounty" : 10
+    "Token Buyback & Burn" : 25
+```
+
+| Allocation | Percentage | Purpose |
+|------------|------------|---------|
+| Stakers | 40% | Distributed to token stakers |
+| Treasury | 25% | Protocol development and maintenance |
+| Bug Bounty Fund | 10% | Security improvements and bug fixes |
+| Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
+
+</div>
+
 <div align="center">
 
 ## Join the Quantum Revolution
@@ -229,11 +241,7 @@ START STAKING NOW
 </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 *"Securing the future of Web3 through quantum-resistant tokenomics and community governance."*
 
