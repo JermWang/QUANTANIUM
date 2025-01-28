@@ -12,9 +12,6 @@
 
 # The Future of Quantum-Secure Tokenomics
 
-<div align="center">
-  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="700"/>
-
 ### Community-Driven, Utility-Focused, Quantum-Resistant
 
 </div>
@@ -234,4 +231,4 @@ START STAKING NOW
 ---
 
 *"Securing the future of Web3 through quantum-resistant tokenomics and community governance."*
-</div> 
+</div>
