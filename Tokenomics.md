@@ -18,13 +18,12 @@
 
 ## Overview
 
-<div align="center">
-
 QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
 
 ## Beta Users Airdrop Program
 
-<table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
+<div align="center">
+<table style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
 <tr>
 <td align="center" style="padding: 20px;">
 
@@ -43,6 +42,7 @@ CLAIM YOUR AIRDROP
 </td>
 </tr>
 </table>
+</div>
 
 The Beta Users Airdrop is designed to reward early adopters who help test, improve, and secure the protocol:
 
@@ -56,7 +56,9 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 
 ## Token Distribution
 
-Total Supply: 1,000,000,000 QNTM (1 Billion)
+Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
+
+<div align="center">
 
 ```mermaid
 pie
@@ -68,14 +70,14 @@ pie
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000 | Immediate |
-| Development Fund & Team | 15% | 150,000,000 | 3-month linear vesting |
-| PumpFun Launch | 70% | 700,000,000 | Immediate circulating supply |
+| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
+| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
+| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
+</div>
 
 ## Advantages of Our Model
 
-### Building a Sustainable Ecosystem
-
+<div align="center">
 <table>
 <tr>
 <td align="center">
@@ -92,7 +94,6 @@ pie
 </td>
 </tr>
 </table>
-
 </div>
 
 1. **Aligned Incentives**
@@ -138,14 +139,13 @@ graph TD
     J --> N[Full Suite + Priority]
 ```
 
-### Staking Tiers
-
 | Lock Period | Discount on Protocol Usage | Additional Benefits |
 |-------------|---------------------------|-------------------|
 | 1 month | 20% | Basic quantum security features |
 | 6 months | 40% | + Advanced threat detection |
 | 1 year | 60% | + Enterprise features |
 | 4 years ("Forever") | 90% | Full suite + Priority support |
+</div>
 
 ### Staking Benefits
 - Reduced protocol usage costs
@@ -156,6 +156,8 @@ graph TD
 
 ## Community Governance
 
+<div align="center">
+
 ```mermaid
 graph LR
     A[Token Holders] --> B[Stake Tokens]
@@ -165,6 +167,7 @@ graph LR
     E --> F[Implementation]
     F --> G[Community Benefits]
 ```
+</div>
 
 ### Voting Power
 - 1 QNTM = 1 base vote
@@ -183,6 +186,8 @@ graph LR
 
 ## Protocol Revenue Model
 
+<div align="center">
+
 ```mermaid
 pie
     title "Revenue Distribution"
@@ -198,10 +203,12 @@ pie
 | Treasury | 25% | Protocol development and maintenance |
 | Bug Bounty Fund | 10% | Security improvements and bug fixes |
 | Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
+</div>
 
 ## Join the Quantum Revolution
 
-<table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
+<div align="center">
+<table style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
 <tr>
 <td align="center" style="padding: 20px;">
 
@@ -224,5 +231,4 @@ START STAKING NOW
 ---
 
 *"Securing the future of Web3 through quantum-resistant tokenomics and community governance."*
-
 </div> 
