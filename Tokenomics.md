@@ -54,7 +54,7 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 
 ## Token Distribution
 
-Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
+Total Supply: 1,000,000,000 QNTM (1 Billion)
 
 <div align="center">
 
@@ -68,9 +68,9 @@ pie
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
-| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
-| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
+| Beta Users Airdrop | 15% | 150,000,000 | Immediate |
+| Development Fund & Team | 15% | 150,000,000 | 3-month linear vesting |
+| PumpFun Launch | 70% | 700,000,000 | Immediate circulating supply |
 </div>
 
 ## Advantages of Our Model
