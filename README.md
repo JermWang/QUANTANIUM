@@ -389,22 +389,223 @@ Performance Under Load:
 ### Deployment Topology
 ```mermaid
 graph TD
-    subgraph "High Availability Configuration"
-        LB[Load Balancer] --> QN1[Quantum Node 1]
-        LB --> QN2[Quantum Node 2]
-        LB --> QN3[Quantum Node 3]
+    subgraph "High Availability Infrastructure"
+        direction TB
         
-        QN1 --> Cache1[Redis Cluster]
-        QN2 --> Cache1
-        QN3 --> Cache1
+        subgraph "Load Distribution"
+            LB[Load Balancer]
+        end
         
-        QN1 --> DB1[Primary DB]
+        subgraph "Processing Layer"
+            QN1[Quantum Node 1]
+            QN2[Quantum Node 2]
+            QN3[Quantum Node 3]
+        end
+        
+        subgraph "Data Layer"
+            RC[Redis Cluster]
+            DB1[Primary DB]
+            DB2[Replica 1]
+            DB3[Replica 2]
+        end
+        
+        LB --> QN1
+        LB --> QN2
+        LB --> QN3
+        
+        QN1 --> RC
+        QN2 --> RC
+        QN3 --> RC
+        
+        QN1 --> DB1
         QN2 --> DB1
         QN3 --> DB1
         
-        DB1 --> DB2[Replica 1]
-        DB1 --> DB3[Replica 2]
+        DB1 --> DB2
+        DB1 --> DB3
     end
+```
+
+## Quick Start Guide
+
+### For Users
+Get started with QUANTANIUM protection in minutes:
+
+1. **Install the Extension**
+   ```bash
+   # Chrome Web Store
+   Visit: quantanium.xyz/extension
+   
+   # Firefox Add-ons
+   Visit: quantanium.xyz/firefox
+   ```
+
+2. **Beta Access**
+   ```bash
+   # Request your beta access key
+   Visit: quantanium.xyz/beta
+   ```
+
+3. **Basic Configuration**
+   ```javascript
+   // Initialize protection with your beta key
+   await Quantanium.initialize('YOUR_BETA_KEY');
+   ```
+
+### For Developers
+
+#### Basic Integration
+```typescript
+import { QuantumShield } from '@quantanium/core';
+
+// Initialize with basic configuration
+const shield = new QuantumShield({
+  apiKey: 'YOUR_BETA_KEY',
+  environment: 'testnet', // or 'mainnet'
+  logLevel: 'info',
+  chains: ['ETH', 'SOL'] // chains to protect
+});
+
+// Enable protection
+await shield.activate();
+```
+
+#### Advanced Integration
+
+```typescript
+import { 
+  QuantumShield, 
+  SecurityConfig, 
+  ChainConfig,
+  ThreatResponse 
+} from '@quantanium/core';
+
+// Comprehensive configuration
+const config: SecurityConfig = {
+  apiKey: 'YOUR_BETA_KEY',
+  environment: 'production',
+  quantum: {
+    resistanceLevel: 'MAXIMUM',
+    keyRotationInterval: '24h',
+    signatureScheme: 'RAINBOW_COMPRESSED'
+  },
+  neural: {
+    learningMode: 'ADAPTIVE',
+    updateInterval: '1h',
+    sensitivityLevel: 0.95
+  },
+  chains: [
+    {
+      id: 'ETH',
+      rpcEndpoint: 'YOUR_RPC',
+      contractWhitelist: ['0x...'],
+      customRules: {
+        maxGasPrice: '100gwei',
+        maxTransactionValue: '10eth'
+      }
+    }
+  ],
+  alerts: {
+    webhook: 'https://your-api.com/alerts',
+    email: 'security@your-company.com',
+    telegram: '@your_channel'
+  }
+};
+
+// Initialize with enterprise configuration
+const shield = new QuantumShield(config);
+
+// Custom threat response handler
+shield.on('threatDetected', async (threat: ThreatResponse) => {
+  console.log(`Threat detected: ${threat.type}`);
+  await your.securityTeam.notify(threat);
+});
+
+// Enable protection with custom options
+await shield.activate({
+  enableAutoUpdate: true,
+  failClosed: true,
+  backupNodes: ['node1.backup.com', 'node2.backup.com']
+});
+```
+
+### Enterprise Features
+
+#### API Documentation
+Comprehensive API documentation is available at [docs.quantanium.xyz/api](https://quantanium.xyz/api)
+
+#### Security Integration Examples
+```typescript
+// Transaction verification
+const txVerification = await shield.verifyTransaction({
+  chain: 'ETH',
+  from: '0x...',
+  to: '0x...',
+  value: '1.5eth',
+  data: '0x...'
+});
+
+// Smart contract audit
+const contractAudit = await shield.auditContract({
+  address: '0x...',
+  chain: 'ETH',
+  auditDepth: 'FULL',
+  simulateAttacks: true
+});
+
+// Wallet protection
+const walletGuard = await shield.protectWallet({
+  address: '0x...',
+  protectionLevel: 'MAXIMUM',
+  enableRecovery: true
+});
+```
+
+#### Monitoring & Analytics
+```typescript
+// Real-time security metrics
+const metrics = await shield.getMetrics({
+  timeframe: '24h',
+  includeThreats: true,
+  format: 'PROMETHEUS'
+});
+
+// Security logs
+const logs = await shield.getLogs({
+  level: 'WARNING',
+  from: new Date('2024-01-01'),
+  to: new Date(),
+  format: 'ELK'
+});
+```
+
+### Beta Program Details
+
+During the beta phase, you'll receive:
+- Exclusive API key with enhanced rate limits
+- Early access to new security features
+- Direct support from our security team
+- Custom integration assistance
+- Threat intelligence sharing network access
+
+### System Requirements
+
+#### Minimum (Individual Users)
+```yaml
+CPU: 2 cores
+RAM: 4GB
+Storage: 50GB SSD
+Network: 10Mbps
+```
+
+#### Recommended (Enterprise)
+```yaml
+CPU: 8+ cores
+RAM: 32GB
+Storage: 500GB NVMe
+Network: 1Gbps symmetric
+Redundancy: Multi-region deployment
+Monitoring: Prometheus + Grafana
 ```
 
 ## Development & Testing
