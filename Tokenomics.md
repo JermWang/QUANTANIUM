@@ -12,6 +12,9 @@
 
 # The Future of Quantum-Secure Tokenomics
 
+<div align="center">
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="700"/>
+
 ### Community-Driven, Utility-Focused, Quantum-Resistant
 
 </div>
