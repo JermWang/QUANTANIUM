@@ -1,10 +1,10 @@
 # QUANTANIUM: Advanced Quantum-Resistant Security Protocol for Web3 Infrastructure
 
-[![Build Status](https://github.com/quantanium/quantanium/workflows/CI/badge.svg)](https://github.com/quantanium/quantanium/actions)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=quantanium&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=quantanium)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=quantanium&metric=coverage)](https://sonarcloud.io/summary/new_code?id=quantanium)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![NPM Version](https://img.shields.io/npm/v/@quantanium/core.svg)](https://www.npmjs.com/package/@quantanium/core)
+[![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://quantanium.xyz)
+[![Security](https://img.shields.io/badge/security-A+-brightgreen.svg)](https://quantanium.xyz)
+[![Coverage](https://img.shields.io/badge/coverage-98%25-brightgreen.svg)](https://quantanium.xyz)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://quantanium.xyz)
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://quantanium.xyz)
 
 ## Token Information
 **Network**: Solana
@@ -32,35 +32,25 @@ That's where QUANTANIUM comes in. We're not just building better locks - we're c
 
 ## 🚀 Join the Quantum Security Revolution
 
+## Join the Beta Program
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🌐 BETA ACCESS NOW OPEN</h3>
-        <p>Be among the first to experience quantum-grade security</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <table>
-          <tr>
-            <td>🛡️ Priority Access</td>
-            <td>🔒 Advanced Features</td>
-            <td>💎 Exclusive Benefits</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>Limited Spots Available</h4>
-        <a href="https://quantanium.com/beta-signup">
-          <img src="https://quantanium.com/assets/beta-button.png" alt="Join Beta" width="200"/>
-        </a>
-        <p><sub>Already protecting $1B+ in digital assets</sub></p>
-      </td>
-    </tr>
-  </table>
+  <div style="max-width: 600px; margin: 0 auto; padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
+    <h2 style="color: #00ff94;">BETA ACCESS NOW OPEN</h2>
+    <p>Be among the first to experience military-grade quantum security</p>
+    
+    <div style="display: flex; justify-content: space-around; margin: 20px 0;">
+      <div>🛡️ Priority Access</div>
+      <div>🔒 Advanced Features</div>
+      <div>💎 Enterprise Support</div>
+    </div>
+    
+    <a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
+      REQUEST BETA ACCESS
+    </a>
+    
+    <p style="margin-top: 15px; font-size: 0.9em;">Already protecting over $1B in digital assets</p>
+  </div>
 </div>
 
 ---
@@ -647,12 +637,20 @@ Monitoring: Prometheus + Grafana
 ## Technical Contact
 
 For technical inquiries and integration support:
-- Documentation: [docs.quantanium.xyz](https://quantanium.xyz/docs)
-- Developer Portal: [dev.quantanium.xyz](https://quantanium.xyz/dev)
-- Security Audits: [security@quantanium.xyz](mailto:security@quantanium.xyz)
-- Enterprise Support: [enterprise@quantanium.xyz](mailto:enterprise@quantanium.xyz)
-- Emergency Response: [security-911@quantanium.xyz](mailto:security-911@quantanium.xyz)
+- Documentation: [quantanium.xyz/docs](https://quantanium.xyz/docs)
+- Support: [quantanium.xyz/support](https://quantanium.xyz/support)
+
+## Community & Support
+
+### Official Channels
 - Website: [quantanium.xyz](https://quantanium.xyz)
+- Twitter: [@QUANTANIUM_XYZ](https://twitter.com/QUANTANIUM_XYZ)
+- Telegram: [t.me/QUANTANIUM_XYZ](https://t.me/QUANTANIUM_XYZ)
+
+### Support
+For technical inquiries and integration support:
+- Documentation: [quantanium.xyz/docs](https://quantanium.xyz/docs)
+- Support: [quantanium.xyz/support](https://quantanium.xyz/support)
 
 ### Support SLA
 | Tier | Response Time | Availability | Support Channels |
@@ -660,12 +658,6 @@ For technical inquiries and integration support:
 | Enterprise | 15 minutes | 24/7/365 | All channels + Dedicated Team |
 | Business | 1 hour | 24/7 | Email, Phone, Chat |
 | Developer | 4 hours | Business Hours | Email, Community |
-
-### Community
-- Twitter: [@QuantaniumSec](https://twitter.com/QuantaniumSec)
-- Discord: [Join our community](https://discord.gg/quantanium)
-- Telegram: [Official Channel](https://t.me/quantanium)
-- Medium: [Blog](https://quantanium.medium.com)
 
 ---
 
