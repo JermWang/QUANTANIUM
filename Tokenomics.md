@@ -1,23 +1,26 @@
 # QUANTANIUM Tokenomics
 
+<div align="center">
+
 [![Token](https://img.shields.io/badge/Token-QNTM-00ff94.svg)](https://quantanium.xyz)
 [![Circulating Supply](https://img.shields.io/badge/Circulating_Supply-85%25-brightgreen.svg)](https://quantanium.xyz)
 [![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz/stake)
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
-<div align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
-  
-  # The Future of Quantum-Secure Tokenomics
-  
-  ### Community-Driven, Utility-Focused, Quantum-Resistant
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
+
+# The Future of Quantum-Secure Tokenomics
+
+### Community-Driven, Utility-Focused, Quantum-Resistant
+
 </div>
 
 ## Overview
-QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
 
 <div align="center">
+
+QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
 
 ## Beta Users Airdrop Program
 
@@ -51,13 +54,9 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 - **Distribution**: Immediate upon mainnet launch
 - **Lock-up**: Optional lock-up periods for additional benefits
 
-</div>
-
-<div align="center">
-
 ## Token Distribution
 
-Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
+Total Supply: 1,000,000,000 QNTM (1 Billion)
 
 ```mermaid
 pie
@@ -67,20 +66,13 @@ pie
     "PumpFun Launch" : 70
 ```
 
-<div align="center">
-
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
-| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
-| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
-
-</div>
-</div>
+| Beta Users Airdrop | 15% | 150,000,000 | Immediate |
+| Development Fund & Team | 15% | 150,000,000 | 3-month linear vesting |
+| PumpFun Launch | 70% | 700,000,000 | Immediate circulating supply |
 
 ## Advantages of Our Model
-
-<div align="center">
 
 ### Building a Sustainable Ecosystem
 
@@ -155,8 +147,6 @@ graph TD
 | 1 year | 60% | + Enterprise features |
 | 4 years ("Forever") | 90% | Full suite + Priority support |
 
-</div>
-
 ### Staking Benefits
 - Reduced protocol usage costs
 - Enhanced security features
@@ -165,8 +155,6 @@ graph TD
 - Revenue sharing from protocol fees
 
 ## Community Governance
-
-<div align="center">
 
 ```mermaid
 graph LR
@@ -186,8 +174,6 @@ graph LR
   - 1-year stake: 3x
   - 4-year stake: 5x
 
-</div>
-
 ### Governance Scope
 - Protocol upgrades and features
 - Security parameter adjustments
@@ -196,8 +182,6 @@ graph LR
 - Partnership decisions
 
 ## Protocol Revenue Model
-
-<div align="center">
 
 ```mermaid
 pie
@@ -214,10 +198,6 @@ pie
 | Treasury | 25% | Protocol development and maintenance |
 | Bug Bounty Fund | 10% | Security improvements and bug fixes |
 | Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
-
-</div>
-
-<div align="center">
 
 ## Join the Quantum Revolution
 
