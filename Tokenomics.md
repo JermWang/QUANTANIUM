@@ -60,7 +60,7 @@ Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
 
 ```mermaid
 pie
-    title "QNTM Token Distribution"
+    title QNTM Token Distribution
     "Beta Users Airdrop" : 15
     "Development Fund & Team" : 15
     "PumpFun Launch" : 70
