@@ -6,8 +6,14 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![NPM Version](https://img.shields.io/npm/v/@quantanium/core.svg)](https://www.npmjs.com/package/@quantanium/core)
 
+## Token Information
+**Network**: Solana
+**Contract Address**: `QNTMxyzABCD...` (replace with actual address)
+**Token Symbol**: QNTM
+**Explorer**: [View on Solana Explorer](https://explorer.solana.com/address/QNTMxyzABCD)
+
 <div align="center">
-  <img src="https://quantanium.com/assets/quantum-shield.png" alt="QUANTANIUM Shield" width="200"/>
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="200"/>
   
   # Welcome to the Future of Web3 Security
   
@@ -61,53 +67,105 @@ That's where QUANTANIUM comes in. We're not just building better locks - we're c
 
 ## How QUANTANIUM Actually Protects Your Assets
 
-Traditional wallet security relies on standard encryption that quantum computers could potentially break. Here's how QUANTANIUM is different:
+Traditional wallet security is like having a guard who only knows about yesterday's threats. QUANTANIUM is different - it's a living, evolving guardian that learns and adapts to protect against both current and future threats.
 
-### The Quantum Advantage Explained
+### The Quantum Guardian Explained
 
-Imagine each transaction as a message in a bottle. Current systems use a lock that future quantum computers could break in seconds. QUANTANIUM creates a special quantum-mathematical lock that becomes stronger, not weaker, when attacked by quantum computers.
+Think of QUANTANIUM as having three core protection systems:
+
+1. **The Quantum Core**: Creates unbreakable mathematical locks that get stronger with each attack attempt
+2. **The Neural Shield**: Learns and adapts to new threats in real-time
+3. **The Collective Defense Network**: Shares threat intelligence across all protected wallets instantly
 
 ### Real-World Protection Examples
 
-1. **Transaction DNA Verification**
-   - Every transaction gets a unique quantum-resistant signature
-   - Like a DNA test for your transactions
-   - Even if quantum computers can break normal signatures, they can't forge our quantum signatures
-   - Example: Sending 1 ETH to a new address? Our system creates an unforgeable quantum proof of your intent
-
-2. **Quantum Address Protection**
-   - Your wallet addresses are secured with quantum-resistant keys
-   - Think of it as having an infinitely long password that gets stronger, not weaker, over time
-   - Even a quantum computer would need billions of years to crack it
-   - Example: Your seed phrase is protected by mathematical problems that quantum computers can't solve
-
-3. **Predictive Defense Shield**
+1. **The Quantum Watchtower**
    ```mermaid
-   graph LR
-       A[New Transaction] --> B{Quantum Analysis}
-       B -->|Safe| C[Approved]
-       B -->|Suspicious| D[Blocked]
-       B -->|Unknown| E[Neural Analysis]
-       E --> F{Advanced Check}
-       F -->|Safe| C
-       F -->|Risky| D
+   graph TD
+       A[New Transaction/Interaction] --> B{Guardian Analysis}
+       B -->|Scan Contract| C[Smart Contract Audit]
+       B -->|Verify Destination| D[Address Reputation Check]
+       B -->|Analyze Token| E[Token Security Analysis]
+       
+       C -->|Suspicious Pattern| F[Block & Alert]
+       D -->|Known Scammer| F
+       E -->|Rug Pull Risk| F
+       
+       C -->|Safe| G[Neural Verification]
+       D -->|Safe| G
+       E -->|Safe| G
+       
+       G -->|Approved| H[Execute Transaction]
+       G -->|Unknown Risk| I[Enhanced Analysis]
+       
+       I -->|Risk Detected| F
+       I -->|Verified Safe| H
+       
+       subgraph "Collective Defense"
+           J[New Threat Detected] --> K[Global Threat Database]
+           K --> L[Update All Guardians]
+           L --> M[Enhanced Protection]
+       end
    ```
 
-### What Makes It Different From Regular Security?
+2. **System-Wide Protection Shield**
+   - **Extension Guardian**: Monitors and protects all crypto-related browser extensions
+   - **Config Sentinel**: Prevents unauthorized access to wallet configurations
+   - **Key Vault**: Quantum-encrypted storage for private keys and seed phrases
+   - **Access Control Matrix**: AI-powered monitoring of all system interactions
 
-| Feature | Traditional Security | QUANTANIUM Protection |
-|---------|---------------------|----------------------|
-| Encryption | Can be broken by quantum computers | Gets stronger with quantum attacks |
-| Transaction Verification | Basic signature check | Quantum-resistant proof of intent |
-| Future Proofing | None | Automatically adapts to new quantum threats |
-| Smart Contract Protection | Basic audit | Quantum-resistant logic verification |
+3. **Adaptive Threat Response**
+   - **Scam Pattern Recognition**: Uses ML to identify new scam variations before they can affect you
+   - **Smart Contract Analysis**: Real-time audit of contract code and behavior patterns
+   - **Token Security Verification**: Checks for rug pull indicators, contract vulnerabilities, and malicious code
+   - **Transaction Guard**: Prevents interaction with known malicious addresses or suspicious contracts
 
-### Practical Benefits
+### The Collective Defense Network
 
-- **Zero-Knowledge Proofs**: Verify transactions without exposing sensitive data
-- **Quantum Key Rotation**: Automatically updates security before it can be compromised
-- **Cross-Chain Protection**: Same quantum security across all your assets
-- **Smart Contract Shield**: Prevents quantum attacks on your DeFi positions
+| Threat Type | Detection Method | Protection Mechanism | Network Response |
+|-------------|------------------|---------------------|------------------|
+| Wallet Drainer | Neural Pattern Analysis | Instant Block & Alert | Global Blacklist Update |
+| Rug Pull Attempt | Contract Behavior Analysis | Prevention & Warning | Community Alert System |
+| Phishing Attack | Quantum Signature Verification | Access Denial | Threat Pattern Distribution |
+| Zero-Day Exploit | AI Anomaly Detection | Adaptive Shield Generation | Real-time Defense Update |
+
+### Advanced Protection Features
+
+1. **Quantum-Secured Vault**
+   - Quantum-resistant encryption for all sensitive data
+   - Multi-layer access control with biometric verification
+   - Real-time backup with quantum key distribution
+   - Auto-revocation on suspicious activity
+
+2. **Neural Guardian**
+   - Learns from global threat patterns
+   - Adapts protection strategies in real-time
+   - Predicts and prevents new attack vectors
+   - Provides contextual security alerts
+
+3. **Smart Contract Shield**
+   ```typescript
+   interface ContractGuardian {
+     async analyzeContract(address: string): Promise<SecurityReport> {
+       const analysis = await this.quantumAnalyzer.scan(address);
+       const reputation = await this.globalRegistry.check(address);
+       const behavior = await this.neuralNet.predictBehavior(address);
+       
+       return {
+         riskLevel: this.calculateRisk(analysis, reputation, behavior),
+         threatIndicators: this.identifyThreats(analysis),
+         recommendedAction: this.determineAction(analysis.riskScore),
+         communityFeedback: await this.getVerifiedReviews(address)
+       };
+     }
+   }
+   ```
+
+4. **Transaction Safety Matrix**
+   - Pre-transaction security scoring
+   - Real-time value analysis
+   - Cross-chain transaction verification
+   - Smart contract interaction simulation
 
 ---
 
@@ -388,11 +446,12 @@ graph TD
 ## Technical Contact
 
 For technical inquiries and integration support:
-- Technical Documentation: [docs.quantanium.com](https://docs.quantanium.com)
-- Developer Portal: [dev.quantanium.com](https://dev.quantanium.com)
-- Security Audits: [security@quantanium.com](mailto:security@quantanium.com)
-- Enterprise Support: [enterprise@quantanium.com](mailto:enterprise@quantanium.com)
-- Emergency Response: [security-911@quantanium.com](mailto:security-911@quantanium.com)
+- Documentation: [docs.quantanium.xyz](https://quantanium.xyz/docs)
+- Developer Portal: [dev.quantanium.xyz](https://quantanium.xyz/dev)
+- Security Audits: [security@quantanium.xyz](mailto:security@quantanium.xyz)
+- Enterprise Support: [enterprise@quantanium.xyz](mailto:enterprise@quantanium.xyz)
+- Emergency Response: [security-911@quantanium.xyz](mailto:security-911@quantanium.xyz)
+- Website: [quantanium.xyz](https://quantanium.xyz)
 
 ### Support SLA
 | Tier | Response Time | Availability | Support Channels |
@@ -400,6 +459,12 @@ For technical inquiries and integration support:
 | Enterprise | 15 minutes | 24/7/365 | All channels + Dedicated Team |
 | Business | 1 hour | 24/7 | Email, Phone, Chat |
 | Developer | 4 hours | Business Hours | Email, Community |
+
+### Community
+- Twitter: [@QuantaniumSec](https://twitter.com/QuantaniumSec)
+- Discord: [Join our community](https://discord.gg/quantanium)
+- Telegram: [Official Channel](https://t.me/quantanium)
+- Medium: [Blog](https://quantanium.medium.com)
 
 ---
 
