@@ -8,6 +8,8 @@
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
+
 # The Future of Quantum-Secure Tokenomics
 
 ### Community-Driven, Utility-Focused, Quantum-Resistant
@@ -126,31 +128,49 @@ graph TD
     B --> E[1 Year]
     B --> F[4 Years]
     
-    C --> G[20% Discount]
-    D --> H[40% Discount]
-    E --> I[60% Discount]
-    F --> J[90% Discount]
-    
-    G --> K[Basic Features]
-    H --> L[Advanced Features]
-    I --> M[Enterprise Features]
-    J --> N[Full Suite + Priority]
+    C --> G[Basic Tier]
+    D --> H[Advanced Tier]
+    E --> I[Pro Tier]
+    F --> J[Enterprise Tier]
 ```
 
-| Lock Period | Discount on Protocol Usage | Additional Benefits |
-|-------------|---------------------------|-------------------|
-| 1 month | 20% | Basic quantum security features |
-| 6 months | 40% | + Advanced threat detection |
-| 1 year | 60% | + Enterprise features |
-| 4 years ("Forever") | 90% | Full suite + Priority support |
+| Tier | Required Stake | Lock Period | Benefits |
+|-------------|---------------------------|-------------------|-------------------|
+| Basic | 10,000 QNTM | 1 month | Basic quantum security features |
+| Advanced | 10,000 QNTM | 6 months or 5,000 QNTM for 1 year | + Advanced threat detection |
+| Pro | 25,000 QNTM | 1 year or 15,000 QNTM for 2 years | + Enterprise features |
+| Enterprise | 50,000 QNTM | 4 years or 30,000 QNTM for 6 years | Full suite + Priority support |
 </div>
 
-### Staking Benefits
-- Reduced protocol usage costs
-- Enhanced security features
-- Priority support access
-- Governance voting power
-- Revenue sharing from protocol fees
+### Staking Benefits by Tier
+- **Basic Tier**
+  - Essential quantum security features
+  - Basic support access
+  - 1x voting power
+
+- **Advanced Tier**
+  - All Basic features
+  - Advanced threat detection
+  - Priority queue for support
+  - 2x voting power
+  - Revenue sharing (0.5x)
+
+- **Pro Tier**
+  - All Advanced features
+  - Enterprise-grade security
+  - Dedicated support line
+  - 3x voting power
+  - Revenue sharing (1x)
+  - Early access to new features
+
+- **Enterprise Tier**
+  - All Pro features
+  - Custom security solutions
+  - 24/7 priority support
+  - 5x voting power
+  - Revenue sharing (2x)
+  - Feature request prioritization
+  - Direct access to development team
 
 ## Community Governance
 
@@ -188,7 +208,7 @@ graph LR
 
 ```mermaid
 pie
-    title "Revenue Distribution"
+    title Revenue Distribution
     "Stakers" : 40
     "Treasury" : 25
     "Bug Bounty" : 10
@@ -197,7 +217,7 @@ pie
 
 | Allocation | Percentage | Purpose |
 |------------|------------|---------|
-| Stakers | 40% | Distributed to token stakers |
+| Stakers | 40% | Distributed to token stakers based on tier |
 | Treasury | 25% | Protocol development and maintenance |
 | Bug Bounty Fund | 10% | Security improvements and bug fixes |
 | Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
