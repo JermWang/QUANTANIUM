@@ -116,61 +116,110 @@ pie
    - Regular security audits
    - Community-driven security improvements
 
-## Staking Mechanism: Access-for-Stake Model
+## Access Model: Stake-to-Use or Pay-as-you-Go
+
+Our flexible access model allows users to either stake QNTM tokens for discounted access or pay with FIAT. When using FIAT, 100% of the payment is used to buy and burn QNTM tokens, reducing total supply.
 
 <div align="center">
 
 ```mermaid
 graph TD
-    A[Stake QNTM Tokens] --> B{Choose Lock Period}
-    B --> C[1 Month]
-    B --> D[6 Months]
-    B --> E[1 Year]
-    B --> F[4 Years]
-    
-    C --> G[Basic Tier]
-    D --> H[Advanced Tier]
-    E --> I[Pro Tier]
-    F --> J[Enterprise Tier]
+    A[Choose Access Method] --> B[Stake QNTM]
+    A --> C[Pay FIAT]
+    B --> D[Lock Period Selection]
+    C --> E[Token Buy & Burn]
+    D --> F[Access Granted]
+    E --> F
 ```
 
-| Tier | Required Stake | Lock Period | Benefits |
-|-------------|---------------------------|-------------------|-------------------|
-| Basic | 10,000 QNTM | 1 month | Basic quantum security features |
-| Advanced | 10,000 QNTM | 6 months or 5,000 QNTM for 1 year | + Advanced threat detection |
-| Pro | 25,000 QNTM | 1 year or 15,000 QNTM for 2 years | + Enterprise features |
-| Enterprise | 50,000 QNTM | 4 years or 30,000 QNTM for 6 years | Full suite + Priority support |
+### Monthly Subscription Tiers
+
+| Tier | FIAT Price | Required Stake* | Lock Period Options | Effective Discount** |
+|-------------|-------------|-------------------|-------------------|-------------------|
+| Basic | $99/mo | $2,000 in QNTM | 6 months min | 50% |
+| Advanced | $299/mo | $5,000 in QNTM | 6 months min | 55% |
+| Pro | $999/mo | $15,000 in QNTM | 12 months min | 60% |
+| Enterprise | $2,999/mo | $40,000 in QNTM | 12 months min | 65% |
+
 </div>
 
+\* Required stake is calculated in USD value of QNTM tokens and automatically adjusts with market price
+\** Discount represents the cost savings compared to monthly FIAT payments when staking for the minimum period
+
+### How It Works
+
+1. **FIAT Payment Route**:
+   - Subscribe with traditional monthly payments
+   - 100% of FIAT payments are used to buy & burn QNTM tokens
+   - Immediate access to tier features
+   - Cancel anytime
+
+2. **Token Staking Route**:
+   - Stake the required USD value in QNTM tokens
+   - Longer stake periods = Higher benefits
+   - Maintain exit liquidity
+   - Earn additional rewards through revenue sharing
+
+### Dynamic Staking Formula
+```
+Required Stake = (Monthly FIAT Price × 12 × (1 - Tier Discount)) ÷ Revenue Share APY
+```
+Example for Pro Tier:
+- FIAT Price: $999/mo
+- Tier Discount: 60%
+- Revenue Share APY: 15%
+- Required Stake = ($999 × 12 × 0.4) ÷ 0.15 = $31,968 ≈ $15,000 min stake
+
 ### Staking Benefits by Tier
-- **Basic Tier**
+
+- **Basic Tier** ($99/mo or stake equivalent)
   - Essential quantum security features
   - Basic support access
   - 1x voting power
+  - 10% APY from revenue sharing
 
-- **Advanced Tier**
+- **Advanced Tier** ($299/mo or stake equivalent)
   - All Basic features
   - Advanced threat detection
   - Priority queue for support
   - 2x voting power
-  - Revenue sharing (0.5x)
+  - 12% APY from revenue sharing
+  - Early access to beta features
 
-- **Pro Tier**
+- **Pro Tier** ($999/mo or stake equivalent)
   - All Advanced features
   - Enterprise-grade security
   - Dedicated support line
   - 3x voting power
-  - Revenue sharing (1x)
-  - Early access to new features
+  - 15% APY from revenue sharing
+  - Feature request prioritization
 
-- **Enterprise Tier**
+- **Enterprise Tier** ($2,999/mo or stake equivalent)
   - All Pro features
   - Custom security solutions
   - 24/7 priority support
   - 5x voting power
-  - Revenue sharing (2x)
-  - Feature request prioritization
+  - 20% APY from revenue sharing
   - Direct access to development team
+  - Custom integration support
+
+### Token Burn Mechanism
+
+When users choose FIAT payments:
+1. 100% of the payment is used to purchase QNTM tokens from the market
+2. Purchased tokens are immediately burned
+3. This creates constant buy pressure and reduces total supply
+4. Token burns are publicly verifiable on-chain
+
+### Staking Flexibility
+
+- **Minimum Lock Periods**: 6 or 12 months depending on tier
+- **Extended Locks**: Additional benefits for longer commitments
+- **Early Withdrawal**: Available with 20% penalty fee
+- **Stake Adjustments**: 
+  - Increase stake anytime
+  - Decrease stake after lock period
+  - Automatic tier upgrades when adding more tokens
 
 ## Community Governance
 
