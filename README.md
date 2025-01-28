@@ -8,12 +8,12 @@
 
 ## Token Information
 **Network**: Solana
-**Contract Address**: `QNTMxyzABCD...` (replace with actual address)
-**Token Symbol**: QNTM
-**Explorer**: [View on Solana Explorer](https://explorer.solana.com/address/QNTMxyzABCD)
+**Contract Address**: `Launching Soon...`
+**Token Symbol**: ****
+**Explorer**: 'Launching Soon...'
 
 <div align="center">
-  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width="200"/>
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
   
   # Welcome to the Future of Web3 Security
   
@@ -51,10 +51,12 @@ That's where QUANTANIUM comes in. We're not just building better locks - we're c
 </div>
 
 <a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
+
 REQUEST BETA ACCESS
+
 </a>
 
-<p style="margin-top: 15px; font-size: 0.9em; color: #888;">Already protecting over $1B in digital assets</p>
+<p style="margin-top: 15px; font-size: 0.9em; color: #888;">We're already protecting over $50M in digital assets within our private Alpha stage. </p>
 
 </td>
 </tr>
@@ -66,16 +68,16 @@ REQUEST BETA ACCESS
 
 ## How QUANTANIUM Actually Protects Your Assets
 
-Traditional wallet security is like having a guard who only knows about yesterday's threats. QUANTANIUM is different - it's a living, evolving guardian that learns and adapts to protect against both current and future threats.
+Traditional wallet security is like having a security guard at the entrance who only knows about yesterday's threats the current technology is very suspectable to new methods of fraud. QUANTANIUM is different - it's a living, evolving guardian that learns and adapts to protect against both current and future threats.
 
 ### The Quantum Guardian Explained
 
 Think of QUANTANIUM as having three core protection systems:
 
-1. **The Quantum Core**: Creates unbreakable mathematical locks that get stronger with each attack attempt
+1. **The Quantum Core**: Creates an additional layer of encryption for your wallet, a new digital signiture making it secure against Quantum attacks.
 2. **The Neural Shield**: Learns and adapts to new threats in real-time
 3. **The Collective Defense Network**: Shares threat intelligence across all protected wallets instantly
-
+quantuam
 ### Real-World Protection Examples
 
 1. **The Quantum Watchtower**
@@ -112,6 +114,7 @@ Think of QUANTANIUM as having three core protection systems:
    - **Config Sentinel**: Prevents unauthorized access to wallet configurations
    - **Key Vault**: Quantum-encrypted storage for private keys and seed phrases
    - **Access Control Matrix**: AI-powered monitoring of all system interactions
+   - **Open Source**: Achieves all this while being open source, to remove any risk of exploit by Quantanium 
 
 3. **Adaptive Threat Response**
    - **Scam Pattern Recognition**: Uses ML to identify new scam variations before they can affect you
@@ -389,6 +392,8 @@ Performance Under Load:
 ```mermaid
 graph TD
     subgraph "High Availability Infrastructure"
+
+
         direction TB
         
         subgraph "Load Distribution"
