@@ -1,13 +1,13 @@
 # QUANTANIUM Tokenomics
 
 [![Token](https://img.shields.io/badge/Token-QNTM-00ff94.svg)](https://quantanium.xyz)
-[![Market Cap](https://img.shields.io/badge/Circulating_Supply-150M-brightgreen.svg)](https://quantanium.xyz)
+[![Circulating Supply](https://img.shields.io/badge/Circulating_Supply-85%25-brightgreen.svg)](https://quantanium.xyz)
 [![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz/stake)
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
 <div align="center">
-  <img src="https://quantanium.xyz/token-logo.png" alt="QUANTANIUM Token" width="200"/>
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
   
   # The Future of Quantum-Secure Tokenomics
   
@@ -20,24 +20,23 @@ QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that 
 <div align="center">
 
 ## Token Distribution
-Total Supply: 1,000,000,000 QNTM
+Total Supply: 1,000,000,000,000 QNTM (1 Trillion)
 
 ```mermaid
 pie
     title "QNTM Token Distribution"
-    "Beta Users Airdrop" : 15%
-    "Community Treasury" : 30%
-    "Development Fund & Team" : 15%
-    "PumpFun Launch" 40%
+    "Beta Users Airdrop" : 15
+    "Development Fund & Team" : 15
+    "PumpFun Launch" : 70
 ```
 
 </div>
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000 | Immediate |
-| Community Treasury | 30% | 300,000,000 | Immediate |
-| Development Fund | 15% | 150,000,000 | 12-month-vesting linear vesting |
+| Beta Users Airdrop | 15% | 150,000,000,000 | Immediate |
+| Development Fund & Team | 15% | 150,000,000,000 | 3-month linear vesting |
+| PumpFun Launch | 70% | 700,000,000,000 | Immediate circulating supply |
 
 <div align="center">
 
@@ -70,9 +69,9 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 - **Eligibility**: Active participation in the beta testing program
 - **Allocation Criteria**:
   - Base allocation: 50% of airdrop
-  - Usage-based bonus: 30% of airdrop (Second airdrop)
-  - Bug reporting & feedback: 20% of airdrop (Third Airdrop)
-- **Distribution**: First Distribution is Immediate upon mainnet launch
+  - Usage-based bonus: 30% of airdrop
+  - Bug reporting & feedback: 20% of airdrop
+- **Distribution**: Immediate upon mainnet launch
 - **Lock-up**: Optional lock-up periods for additional benefits
 
 ## Staking Mechanism: Access-for-Stake Model
@@ -146,20 +145,20 @@ graph LR
 ```mermaid
 pie
     title "Revenue Distribution"
-    "Stakers" : 50
-    "Treasury" : 30
+    "Stakers" : 40
+    "Treasury" : 25
     "Bug Bounty" : 10
-    "Token Burn" : 10
+    "Token Buyback & Burn" : 25
 ```
 
 </div>
 
 | Allocation | Percentage | Purpose |
 |------------|------------|---------|
-| Stakers | 50% | Distributed to token stakers |
-| Treasury | 30% | Protocol development and maintenance |
+| Stakers | 40% | Distributed to token stakers |
+| Treasury | 25% | Protocol development and maintenance |
 | Bug Bounty Fund | 10% | Security improvements and bug fixes |
-| Burn | 10% | Reduced supply over time |
+| Token Buyback & Burn | 25% | Regular buyback and burn to reduce supply |
 
 ## Advantages of Our Model
 
