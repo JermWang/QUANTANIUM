@@ -4,11 +4,8 @@
 
 [![Token](https://img.shields.io/badge/Token-QNTM-00ff94.svg)](https://quantanium.xyz)
 [![Circulating Supply](https://img.shields.io/badge/Circulating_Supply-85%25-brightgreen.svg)](https://quantanium.xyz)
-[![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz/stake)
-[![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
-[![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
-
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
+[![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz)
+[![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz)
 
 # The Future of Quantum-Secure Tokenomics
 
@@ -282,13 +279,13 @@ pie
 ### Be Part of Our Community
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-<a href="https://discord.gg/quantanium">Discord</a>
+<a href="https://discord.gg/quantanium">Website</a>
 <a href="https://t.me/quantanium">Telegram</a>
 <a href="https://twitter.com/quantanium">Twitter</a>
 </div>
 
 <a href="https://quantanium.xyz/stake" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
-START STAKING NOW
+JOIN THE BETA NOW
 </a>
 
 </td>
