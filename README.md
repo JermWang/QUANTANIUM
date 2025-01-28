@@ -35,22 +35,31 @@ That's where QUANTANIUM comes in. We're not just building better locks - we're c
 ## Join the Beta Program
 
 <div align="center">
-  <div style="max-width: 600px; margin: 0 auto; padding: 20px; border-radius: 10px; background: linear-gradient(145deg, #1a1a1a, #2a2a2a);">
-    <h2 style="color: #00ff94;">BETA ACCESS NOW OPEN</h2>
-    <p>Be among the first to experience military-grade quantum security</p>
-    
-    <div style="display: flex; justify-content: space-around; margin: 20px 0;">
-      <div>🛡️ Priority Access</div>
-      <div>🔒 Advanced Features</div>
-      <div>💎 Enterprise Support</div>
-    </div>
-    
-    <a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold;">
-      REQUEST BETA ACCESS
-    </a>
-    
-    <p style="margin-top: 15px; font-size: 0.9em;">Already protecting over $1B in digital assets</p>
-  </div>
+
+# BETA ACCESS NOW OPEN
+
+### Be among the first to experience military-grade quantum security
+
+<table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
+<tr>
+<td align="center" style="padding: 20px;">
+
+<div style="display: flex; justify-content: space-between; margin: 20px 0;">
+<span>🛡️ Priority Access</span>
+<span>🔒 Advanced Features</span>
+<span>💎 Enterprise Support</span>
+</div>
+
+<a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
+REQUEST BETA ACCESS
+</a>
+
+<p style="margin-top: 15px; font-size: 0.9em; color: #888;">Already protecting over $1B in digital assets</p>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
