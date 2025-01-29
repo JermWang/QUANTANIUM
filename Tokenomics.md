@@ -59,10 +59,11 @@ REQUEST BETA ACCESS
 
 ---
 
+## The Beta Airdrop
 
 The Beta Users Airdrop is designed to reward early adopters who help test, improve, and secure the protocol:
 
-- **Eligibility**: Active participation in the beta testing program
+- **Eligibility**: Register your wallet & participate in the beta testing program
 - **Allocation Criteria**:
   - Base allocation: 50% of airdrop
   - Usage-based bonus: 30% of airdrop
@@ -73,20 +74,21 @@ The Beta Users Airdrop is designed to reward early adopters who help test, impro
 ## Token Distribution
 
 Total Supply: 1,000,000,000 QNTM (1 Billion)
+Airdrop Supply: Up to 15% > 1% per 1,000 Registered Users, with a max of 15,000 Beta Users.
 
 <div align="center">
 
 ```mermaid
 pie
     title QNTM Token Distribution
-    "Beta Users Airdrop" : 15
-    "Development Fund & Team" : 15
-    "PumpFun Launch" : 70
+    "Beta Users Airdrop" : Up to 15% (Scales up based on participation)
+    "Development Fund & Team" : 15%
+    "PumpFun Launch" : 70%
 ```
 
 | Allocation | Percentage | Amount | Vesting |
 |------------|------------|---------|---------|
-| Beta Users Airdrop | 15% | 150,000,000 | Immediate |
+| Beta Users Airdrop | Up To 15% | 150,000,000 | Immediate |
 | Development Fund & Team | 15% | 150,000,000 | 3-month linear vesting |
 | PumpFun Launch | 70% | 700,000,000 | Immediate circulating supply |
 </div>
@@ -226,10 +228,11 @@ When users choose FIAT payments:
 2. Purchased tokens are immediately burned
 3. This creates constant buy pressure and reduces total supply
 4. Token burns are publicly verifiable on-chain
+5. Those with staked tokens have the potential of exit liquidity, essentially accessing the product for an opportunity cost
 
 ### Staking Flexibility
 
-- **Minimum Lock Periods**: 6 or 12 months depending on tier
+- **Minimum Lock Periods**: 3, 6 or 12 months depending on tier
 - **Extended Locks**: Additional benefits for longer commitments
 - **Early Withdrawal**: Available with 20% penalty fee
 - **Stake Adjustments**: 
