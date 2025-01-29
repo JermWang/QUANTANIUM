@@ -23,29 +23,42 @@
 
 QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
 
-## Beta Users Airdrop Program
+## 🚀 Join the Quantum Security Revolution
+
+## Join the Beta Program
 
 <div align="center">
-<table style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
+
+# BETA ACCESS NOW OPEN
+
+### Be among the first to experience military-grade quantum security
+
+<table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
 <tr>
 <td align="center" style="padding: 20px;">
 
-### Become a Beta User
-
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-<span>🎯 Base Allocation</span>
-<span>📈 Usage Bonus</span>
-<span>🐛 Bug Bounty</span>
+<span>🛡️ Priority Access</span>
+<span>🔒 Advanced Features</span>
+<span>💎 Enterprise Support</span>
 </div>
 
 <a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
-CLAIM YOUR AIRDROP
+
+REQUEST BETA ACCESS
+
 </a>
+
+<p style="margin-top: 15px; font-size: 0.9em; color: #888;">We're already protecting over $50M in digital assets within our private Alpha stage. </p>
 
 </td>
 </tr>
 </table>
+
 </div>
+
+---
+
 
 The Beta Users Airdrop is designed to reward early adopters who help test, improve, and secure the protocol:
 
