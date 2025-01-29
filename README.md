@@ -49,7 +49,7 @@ graph TD
 
 ### 💡 Why This Matters
 
-Traditional Wallet:
+Traditional Browser Wallet:
 - ❌ Full wallet exposure on every transaction
 - ❌ One compromised signature risks everything
 - ❌ Static security that quantum computers can break
