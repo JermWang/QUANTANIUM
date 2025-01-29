@@ -7,6 +7,15 @@
 [![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz)
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz)
 
+## Token Information
+**Network**: Solana
+**Contract Address**: `Launching Soon...`
+**Token Symbol**: QNTM
+**Explorer**: 'Launching Soon...'
+
+<div align="center">
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
+  
 # The Future of Quantum-Secure Tokenomics
 
 ### Community-Driven, Utility-Focused, Quantum-Resistant
