@@ -12,6 +12,9 @@
 **Contract Address**: `Launching Soon...`
 **Token Symbol**: QNTM
 **Explorer**: 'Launching Soon...'
+
+<div align="center">
+  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
   
 # The Future of Quantum-Secure Tokenomics
 
