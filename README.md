@@ -13,7 +13,7 @@
 **Explorer**: 'Launching Soon...'
 
 <div align="center">
-  <img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
+  <img src="https://github.com/JermWang/quantanium-verse/blob/main/public/QUANTANIUM-BANNER-2.png" alt="QUANTANIUM Shield" width="600"/>
   
   # Welcome to the Future of Web3 Security
   
