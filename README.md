@@ -246,13 +246,6 @@ QUANTANIUM implements a three-tier security architecture:
 
 The imminent quantum threat to current cryptographic standards necessitates a paradigm shift in security protocols. QUANTANIUM's implementation of lattice-based cryptography and zero-knowledge proofs creates an impenetrable security layer that scales with quantum computational advancement.
 
-### Security Compliance & Certifications
-- SOC 2 Type II Certified
-- ISO 27001:2013 Certified
-- NIST Post-Quantum Cryptography Round 3 Compliant
-- FIPS 140-3 Level 4 Validation (In Progress)
-- Common Criteria EAL5+ Certification
-
 ### Quantum Security Metrics
 | Algorithm Class | Security Level | Time to Break (Classical) | Time to Break (Quantum) |
 |----------------|----------------|-------------------------|------------------------|
