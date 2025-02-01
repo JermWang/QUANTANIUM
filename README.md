@@ -658,15 +658,6 @@ Monitoring: Prometheus + Grafana
 | Smart Contracts | 2024-Q1 | ChainSec | A+ |
 | Infrastructure | 2024-Q1 | SecureNet | A+ |
 
-## Compliance & Governance
-
-### Regulatory Compliance
-- EU GDPR Compliant
-- CCPA Compliant
-- HIPAA Compliant (Healthcare Integration)
-- SEC Requirements (Financial Services)
-- NIST Cybersecurity Framework
-
 ### Risk Assessment Matrix
 
 | Risk Category | Likelihood | Impact | Mitigation Strategy |
