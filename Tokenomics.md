@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Token](https://img.shields.io/badge/Token-QNTM-00ff94.svg)](https://quantanium.xyz)
+[![Token](https://img.shields.io/badge/Token-****-00ff94.svg)](https://quantanium.xyz)
 [![Circulating Supply](https://img.shields.io/badge/Circulating_Supply-85%25-brightgreen.svg)](https://quantanium.xyz)
 [![Staking](https://img.shields.io/badge/Staking_APY-12%25-blue.svg)](https://quantanium.xyz/stake)
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
