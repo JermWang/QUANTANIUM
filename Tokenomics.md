@@ -8,7 +8,7 @@
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
-<img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
+  <img src="https://github.com/JermWang/quantanium-verse/blob/main/public/QUANTANIUM-BANNER-2.png" alt="QUANTANIUM Shield" width="600"/>
 
 # The Future of Quantum-Secure Tokenomics
 
