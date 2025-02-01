@@ -9,7 +9,7 @@
 ## Token Information
 **Network**: Solana
 **Contract Address**: `Launching Soon...`
-**Token Symbol**: QNTM
+**Token Symbol**: ****
 **Explorer**: 'Launching Soon...'
 
 <div align="center">
