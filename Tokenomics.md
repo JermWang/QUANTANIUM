@@ -18,7 +18,7 @@
 
 ## Overview
 
-QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
+QUANTANIUM is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
 <div align="center">
 
 # BETA ACCESS NOW OPEN
