@@ -8,7 +8,7 @@
 [![Governance](https://img.shields.io/badge/Governance-Active-success.svg)](https://quantanium.xyz/dao)
 [![Audit](https://img.shields.io/badge/Audit-Completed-success.svg)](https://quantanium.xyz/audit)
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSI5MCIgZmlsbD0iIzAwZmY5NCIgZmlsbC1vcGFjaXR5PSIwLjEiLz4KICA8cGF0aCBkPSJNNjAgNjBMMTQwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8cGF0aCBkPSJNMTQwIDYwTDYwIDE0MCIgc3Ryb2tlPSIjMDBmZjk0IiBzdHJva2Utd2lkdGg9IjQiLz4KICA8Y2lyY2xlIGN4PSIxMDAiIGN5PSIxMDAiIHI9IjcwIiBzdHJva2U9IiMwMGZmOTQiIHN0cm9rZS13aWR0aD0iNCIvPgo8L3N2Zz4K" alt="QUANTANIUM Token" width="200"/>
+<img src="https://quantanium.xyz/og-image.png" alt="QUANTANIUM Shield" width=""/>
 
 # The Future of Quantum-Secure Tokenomics
 
@@ -19,40 +19,46 @@
 ## Overview
 
 QUANTANIUM (QNTM) is designed as a community-driven, utility-focused token that powers the world's first quantum-resistant Web3 security protocol. Our tokenomics model emphasizes long-term alignment between users, developers, and the protocol's security.
-
-## Beta Users Airdrop Program
-
 <div align="center">
-<table style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
+
+# BETA ACCESS NOW OPEN
+
+### Be among the first to experience military-grade quantum security
+
+<table align="center" style="background: linear-gradient(145deg, #1a1a1a, #2a2a2a); border-radius: 10px; width: 600px;">
 <tr>
 <td align="center" style="padding: 20px;">
 
-### Become a Beta User
-
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-<span>🎯 Base Allocation</span>
-<span>📈 Usage Bonus</span>
-<span>🐛 Bug Bounty</span>
+<span>🛡️ Priority Access</span>
+<span>🔒 Advanced Features</span>
+<span>💎 Enterprise Support</span>
 </div>
 
-<a href="https://quantanium.xyz/beta" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
-CLAIM YOUR AIRDROP
+<a href="https://quantanium.xyz" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
+
+REQUEST BETA ACCESS
+
 </a>
+
+<p style="margin-top: 15px; font-size: 0.9em; color: #888;">We're already protecting over $50M in digital assets within our private Alpha stage. </p>
 
 </td>
 </tr>
 </table>
+
 </div>
+
+---
 
 The Beta Users Airdrop is designed to reward early adopters who help test, improve, and secure the protocol:
 
-- **Eligibility**: Active participation in the beta testing program
+- **Eligibility**: Registration into the Beta
 - **Allocation Criteria**:
   - Base allocation: 50% of airdrop
   - Usage-based bonus: 30% of airdrop
   - Bug reporting & feedback: 20% of airdrop
 - **Distribution**: Immediate upon mainnet launch
-- **Lock-up**: Optional lock-up periods for additional benefits
 
 ## Token Distribution
 
@@ -279,17 +285,15 @@ pie
 <tr>
 <td align="center" style="padding: 20px;">
 
+<div align="center">
+
 ### Be Part of Our Community
 
 <div style="display: flex; justify-content: space-between; margin: 20px 0;">
-<a href="https://discord.gg/quantanium">Discord</a>
-<a href="https://t.me/quantanium">Telegram</a>
-<a href="https://twitter.com/quantanium">Twitter</a>
+<a href="https://quantanium.xyz/">Website</a>
+<a href="https://t.me/QUANTANIUMXYZ">Telegram</a>
+<a href="https://x.com/QuantaniumAgent">Twitter</a>
 </div>
-
-<a href="https://quantanium.xyz/stake" style="display: inline-block; padding: 12px 24px; background: #00ff94; color: #000; text-decoration: none; border-radius: 5px; font-weight: bold; margin: 20px 0;">
-START STAKING NOW
-</a>
 
 </td>
 </tr>
