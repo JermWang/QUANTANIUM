@@ -318,7 +318,6 @@ const matrixConfig: MatrixConfig = {
     activationFunction: 'QUANTUM_RELU'
   },
   chainProtection: {
-    supported: ['ETH', 'SOL', 'DOT', 'COSMOS'],
     consensusValidation: true,
     crossChainBridge: 'QUANTUM_SECURE'
   }
@@ -536,7 +535,7 @@ const config: SecurityConfig = {
   },
   chains: [
     {
-      id: 'ETH',
+      id: 'SOL',
       rpcEndpoint: 'YOUR_RPC',
       contractWhitelist: ['0x...'],
       customRules: {
